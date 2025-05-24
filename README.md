@@ -1,4 +1,4 @@
-<h1>Bayesian Optimization (BO) – Ongoing Special Study</h1>
+<h1>Introduction to Bayesian Optimization (BO)</h1>
 
 <p>
   This project explores <strong>Bayesian Optimization (BO)</strong> — a powerful method for optimizing black-box functions where the objective function is unknown and costly to evaluate. 
@@ -9,8 +9,7 @@
   This makes BO highly effective in areas requiring efficient optimization strategies.
 </p>
 
-<h3>Application Areas</h3>
+<h3>Example Application Areas</h3>
 <ul>
-  <li>Hyperparameter tuning in Machine Learning</li>
-  <li>Reinforcement Learning</li>
+  <li>Hyperparameter tuning in Neural Network</li>
 </ul>
